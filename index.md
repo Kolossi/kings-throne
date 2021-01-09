@@ -31,7 +31,7 @@ Level|Gilderwood Forest|Gildershire Castle|Goldshore|Southern boundary|Argendale
 ----
 ----
 
-# All the following sections and any more coming soon...
+# All the following sections and many more coming soon...
 
 ----
 ----
