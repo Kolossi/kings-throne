@@ -1,6 +1,8 @@
 # King's Throne 
 
-Helpful info for this [android game](https://play.google.com/store/apps/details?id=com.ksrgland.goat) (also available for [iOS](https://apps.apple.com/us/app/kings-throne-game-of-lust/id1457173515))
+Some (hopefully) felpful info for this great [android game](https://play.google.com/store/apps/details?id=com.ksrgland.goat) (also available for [iOS](https://apps.apple.com/us/app/kings-throne-game-of-lust/id1457173515))
+
+This is _VERY_ work-in-progress!!!
 
 ## Kingdom
 
@@ -25,4 +27,32 @@ Level|Gilderwood Forest|Gildershire Castle|Goldshore|Southern boundary|Argendale
 
 </div>
 
+----
+
+All the following sections and any more coming soon...
+
+----
+
 #### Explore
+
+## Maidens
+
+### Intimacy
+
+### Charm
+
+### Exprience
+
+### Bound Hero
+
+## Heros
+
+### Level
+
+### Attributes
+
+### Quality
+
+### Power
+
+### Bound Maiden
