@@ -22,7 +22,7 @@ To maximise income, keep on top of these. After some time income is lost, or fur
 - Castle scene -> Hall of fame -> pick a portrait -> Pay homage
 - Castle scene -> Dungeon -> punish (tip: every *other* day)
 - City scene -> Alliance hall -> Alliance contributions -> contribute
-- Quests -> Weekly -> `claim all` (and also any chests in top bar)
+- Quests -> Weekly -> `claim all` (and also any chests glowing in top bar)
 
 ## Regularly as possible
 
@@ -33,7 +33,7 @@ To maximise income, keep on top of these. After some time income is lost, or fur
 - Kingdom -> each castle -> Explore -> each quest -> `send` -> pick child/`send all`, `send`, `confirm`
 - Kingdom -> each castle -> Explore -> each quest -> `claim`
 - City scene -> King's council -> join/host council
-- Quests -> Daily -> `claim all` (and also any chests in top bar)
+- Quests -> Daily -> `claim all` (and also any chests glowing in top bar)
 
 ## On kingdom campaign completion
 
