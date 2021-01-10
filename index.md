@@ -63,13 +63,13 @@ To maximise income, keep on top of these. After some time income is lost, or fur
 
 # Top left icons
 
-## Character profile
+## Player profile
 
-Click the character picture.
+Click the player avatar picture.
 
 ## VIP
 
-Click the character name.
+Click the player name.
 
 ## Benefits
 
