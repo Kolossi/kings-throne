@@ -4,6 +4,16 @@ Some (hopefully) helpful info for this great [android game](https://play.google.
 
 This is _VERY_ work-in-progress!!!
 
+
+## Resource tasks
+
+### Daily
+
+- Benefits -> Daily Login -> claim
+- Events -> Limited time quests -> Login multiple days
+- 
+
+
 ## Kingdom
 
 ### Castles
@@ -38,6 +48,95 @@ Level|Gilderwood Forest|Gildershire Castle|Goldshore|Southern boundary|Argendale
 ----
 
 #### Explore
+
+# Top left icons
+
+## Benefits
+
+### Growth funds
+
+### Cards
+
+### Premium weekly Cards
+
+### Puchase rewards
+
+### Kingdom Level
+
+### Daily Login
+
+### Buffs
+
+## Packages
+
+Spend real money to get:
+
+- vip points
+- gems
+- other items
+
+## Shortcuts
+
+### Tourney grounds
+
+### Harbour (Boss battle)
+
+# Top right icons
+
+## Events
+
+### (various games)
+
+### Limited time quests
+
+#### Login multiple days
+
+## Challenges
+
+Score high enough in the rankings and at the enf of the challenge recieve rewards via in-game MAIL
+
+## Time honored heros
+
+# Bottom left icons
+
+## Social
+
+## MAIL
+
+## Facebook (castle only)
+
+## Feature preview
+
+Which feature will be unlocked on next kingdom level up.
+
+## Main quests
+
+- green: click and collect reward
+- red: achieve this goal for next rewards
+
+# Bottom right icons
+
+## Castle/City Switch
+
+# Footer
+
+## Chat
+
+Preview of last chat message
+
+## Quests
+
+## Shop
+
+## Heros
+
+## Bag
+
+## Rankings
+
+## Kingdom
+
+# Characters
 
 ## Maidens
 
