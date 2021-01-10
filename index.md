@@ -7,7 +7,7 @@ This is _VERY_ work-in-progress!!!
 
 # Resource todos
 
-To maximise income, keep on top of these.
+To maximise income, keep on top of these. After some time income is lost, or further income is blocked, unless these actions are taken.
 
 ## Weekly
 
@@ -22,6 +22,15 @@ To maximise income, keep on top of these.
 - Dungeon -> punish (tip: every *other* day)
 
 ## Regularly as possible
+
+- Throne room chancellor/levies -> claim
+- Throne room royal advisor/decrees -> enact
+- Training grounds -> claim/train
+- Kingdom -> each castle -> Defend -> claim (or click animated stagecoaches on kingdom map)
+
+## On kingdom campaign completion
+
+## On level up
 
 
 # Castle scene
