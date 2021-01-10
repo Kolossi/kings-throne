@@ -218,7 +218,7 @@ Level|Gilderwood Forest|Gildershire Castle|Goldshore|Southern boundary|Argendale
 
 This is an important metric, as it determines whether you win end of kingdom campaign boss battles.  Although its the total of the power of all your heros, it's not displayed anywhere I've found, but there is a way to find it.
 
-During the daily harbor or alliance boss battles, if all heroes are used and the final boss is still alive, then look at the damage 
+During an alliance boss battle, if all heroes are used and the final boss is still alive, then look at the damage 
 ranking - the total damage will be your total power.
 
 ## Maidens
