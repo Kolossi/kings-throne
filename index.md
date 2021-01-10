@@ -47,6 +47,14 @@ To maximise income, keep on top of these.
 
 # Top left icons
 
+## Character profile
+
+Click the character picture.
+
+## VIP
+
+Click the character name.
+
 ## Benefits
 
 ### Growth funds
