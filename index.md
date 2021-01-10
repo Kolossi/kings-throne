@@ -19,7 +19,8 @@ To maximise income, keep on top of these. After some time income is lost, or fur
 - Events -> Limited time quests -> Login multiple days
 - Rankings -> Local rankings -> on all 3 tabs -> Pay homage
 - Castle scene -> Hall of fame -> pick a portrait -> Pay homage
-- Dungeon -> punish (tip: every *other* day)
+- Castle scene -> Dungeon -> punish (tip: every *other* day)
+- City scene -> Alliance hall -> Alliance contributions -> contribute
 
 ## Regularly as possible
 
@@ -27,6 +28,8 @@ To maximise income, keep on top of these. After some time income is lost, or fur
 - Throne room royal advisor/decrees -> enact
 - Training grounds -> claim/train
 - Kingdom -> each castle -> Defend -> claim (or click animated stagecoaches on kingdom map)
+- Kingdom -> each castle -> Explore -> each quest -> `send` -> pick child/`send all`, `send`, `confirm`
+- Kingdom -> each castle -> Explore -> each quest -> `claim`
 
 ## On kingdom campaign completion
 
