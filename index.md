@@ -24,12 +24,13 @@ To maximise income, keep on top of these. After some time income is lost, or fur
 
 ## Regularly as possible
 
-- Throne room chancellor/levies -> claim
-- Throne room royal advisor/decrees -> enact
-- Training grounds -> claim/train
+- Castle scene -> Throne room chancellor/levies -> claim
+- Castle scene -> Throne room royal advisor/decrees -> enact
+- Castle scene -> Training grounds -> claim/train
 - Kingdom -> each castle -> Defend -> claim (or click animated stagecoaches on kingdom map)
 - Kingdom -> each castle -> Explore -> each quest -> `send` -> pick child/`send all`, `send`, `confirm`
 - Kingdom -> each castle -> Explore -> each quest -> `claim`
+- City scene -> King's council -> join/host council
 
 ## On kingdom campaign completion
 
