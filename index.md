@@ -291,7 +291,7 @@ So if you use it all up every day, you will get rewards every day, but will only
 
 # Donation
 
-Just in case you feel like making a tiny donation to help keep the motivation up, you can click here : 
+If you feel like making a tiny donation to help keep my motivation up, here's the button :
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="YLJ9NX55E6Z7W" />
