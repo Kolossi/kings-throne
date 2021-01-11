@@ -17,8 +17,8 @@ To maximise income, keep on top of these. After some time, income is lost or fur
 
 ## Weekly
 
-- Rankings → Weekly rankings → Point exchange
-- Quests → Progression → `claim all`
+- [Rankings](#rankings) → [Weekly rankings](#weekly-rankings) → [Point exchange](#weekly-rankings-point-exchange)
+- [Quests](#quests) → [Progression](#progression) → `claim all`
 
 ## Daily
 
@@ -75,6 +75,33 @@ To maximise income, keep on top of these. After some time, income is lost or fur
 
 ## Training grounds
 
+# City scene
+
+## Tourney grounds
+
+## Menagerie
+
+## Castle
+
+This is an alternative to the (#castle-city-switch) as a way to get to the [Castle scene](#castle-scene).
+
+## Alliance hall
+
+## Campaign
+
+This is the large gate in the city wall at the very bottom of the scene, right of the [Castle](#castle) and the [Alliance hall](#alliance-hall).  It's quite easy to miss as a clickable item.
+
+## Salon
+
+## King's council
+
+## Expedition
+
+## Harbor
+
+Access to the daily boss battles.  
+
+## Merchant ventures
 
 # Top left icons
 
@@ -153,6 +180,10 @@ Which feature will be unlocked on next kingdom level up.
 
 ## Castle/City Switch
 
+On the [City scene](#city-scene) it says "CASTLE" and on the [Castle scene](#castle-scene) it says "CITY".  Use to switch between the two!
+
+In the [City scene](#city-scene) the large [Castle](#castle) itself can also be clicked
+
 # Footer
 
 ## Chat
@@ -208,6 +239,8 @@ At time of writing, this just says:
 
 ## Kingdom
 
+See [kingdom missions tip](#kingdom-missions-tip)
+
 ### Castles
 
 #### Defend
@@ -255,9 +288,20 @@ This is an important metric, as it determines whether you win end of kingdom cam
 
 ### Attributes
 
+#### <a name="attributes-military"></a> Military
+
 ### Quality
 
+#### <a name="quality-military"></a> Military
+
 ### Power
+
+The sum of heros' power makes up the character [Total power](#total-power), which is crucial in [boss battles](#boss-challenge-hero-tip).
+
+According to the [Ksrgland fandom site](https://ksrgland.fandom.com/wiki/Heroes#Power) the formula for the hero's power is
+
+> Power = (5000 * [Level](#level) * [Military Quality](quality-military)) * [Military Attribute](attributes-military)
+
 
 ### Bound Maiden
 
@@ -292,6 +336,18 @@ The way the punishment works is that you start afresh each day at the first pris
 You daily get "recharged" half of the possible standing which powers your punishment.
 
 So if you use it all up every day, you will get rewards every day, but will only get half way through the prisoners compared to leaving it 2 days to build up full standing - and the later prisoners have great rewards, so you will be better off overall at the expense of having to wait a bit.
+
+## Kingdom missions tip
+
+After chapter 67, where the map part of the story is completed, the missions to fight no longer show up on the map after clicking the [Kingdom](#kingdom) button right of the Castle and City scenes.
+
+To access them, go directly to the Campaign by
+*  City scene → Campaign  
+
+# Other sources
+
+* [Official facebook group](https://www.facebook.com/gameKingsThrone/)
+* [Ksrgland Fandom site](https://ksrgland.fandom.com/wiki/Homepage)
 
 # Donation
 
