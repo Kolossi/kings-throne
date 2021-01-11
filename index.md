@@ -24,8 +24,8 @@ To maximise income, keep on top of these. After some time, income is lost or fur
 
 - Benefits → Daily Login → claim
 - Events → Limited time quests → Login multiple days
-- Rankings → Local rankings → on all 3 tabs → Pay homage (:gem:)
-- Castle scene → Hall of fame → pick a portrait → Pay homage (:gem:)
+- Rankings → Local rankings → on all 3 tabs → Pay homage ( :gem: )
+- Castle scene → Hall of fame → pick a portrait → Pay homage ( :gem: )
 - Castle scene → Dungeon → punish
   - Recommend every *other* day - see [Punishment tip](#punishment-tip) 
 - City scene → Alliance hall → Alliance contributions → contribute
@@ -50,7 +50,7 @@ To maximise income, keep on top of these. After some time, income is lost or fur
 
 ## On kingdom campaign completion
 
-- Kingdom → first castle that shows "Unlock after completing Chapter xx" → Campaign → `claim` (:gem:)
+- Kingdom → first castle that shows "Unlock after completing Chapter xx" → Campaign → `claim` ( :gem: )
 
 ## On level up
 
@@ -128,7 +128,7 @@ Spend real money to get:
 
 ## Challenges
 
-Score high enough in the rankings and at the end of the challenge recieve rewards via in-game MAIL
+Score high enough in the rankings and at the end of the challenge recieve rewards via in-game [MAIL](#mail)
 
 ## Time honored heros
 
@@ -192,9 +192,13 @@ This has the following tabs:
 - Merchant ventures
 - Maiden visits
 
-#### Point exchange
+If you get high enough in the rankings at the end of the week you will receive a message in [MAIL](#mail) with some rewards points ( :crown: )
 
-Being ranked at end of week earns points which can be exchanged for rewards using `Point exchange` button bottom right.
+To spend these, go to [Rankings](#rankings) → [Weekly rankings](#weekly-rankings) → [Point exchange](#weekly-rankings-point-exchange)
+
+#### <a name="weekly-rankings-point-exchange"></a>Point exchange
+
+Being ranked at end of week earns points which can be exchanged for rewards using `Point exchange` button bottom right (a treasure chest icon)
 
 ### Cross-server rankings
 
