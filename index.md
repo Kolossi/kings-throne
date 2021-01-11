@@ -4,10 +4,16 @@ Some (hopefully) helpful info for this great [android game](https://play.google.
 
 This is _VERY_ work-in-progress!!!
 
+If you have any corrections or additional material please contribute:
+
+* This site is built by GitHub pages, so if you are familiar with Git, the best thing would be to fork the [site repo](https://github.com/Kolossi/kings-throne) and raise a pull request.
+* If you don't know what that means :wink:, but you do have a github account or are prepared to create one, [raise an issue](https://github.com/Kolossi/kings-throne/issues/new) 
+* you can also go old-school and email me at `L_u_k_e_B_a_u_t_a_i_n_@_k_o_l_o_s_s_i_._c_o_._u_k` (take the '_'s out)
+* If this info is useful, please consider a tiny [donation](#donation)
 
 # Resource todos
 
-To maximise income, keep on top of these. After some time income is lost, or further income is blocked, unless these actions are taken.
+To maximise income, keep on top of these. After some time, income is lost or further income is blocked - unless these actions are taken.
 
 ## Weekly
 
@@ -45,6 +51,7 @@ To maximise income, keep on top of these. After some time income is lost, or fur
 ## On kingdom campaign completion
 
 - Kingdom → first castle that shows "Unlock after completing Chapter xx" → Campaign → `claim` (:gem:)
+
 ## On level up
 
 
@@ -191,6 +198,8 @@ Being ranked at end of week earns points which can be exchanged for rewards usin
 
 ### Cross-server rankings
 
+At time of writing, this just says:
+
 > Feature is not yet available
 
 ## Kingdom
@@ -279,3 +288,11 @@ The way the punishment works is that you start afresh each day at the first pris
 You daily get "recharged" half of the possible standing which powers your punishment.
 
 So if you use it all up every day, you will get rewards every day, but will only get half way through the prisoners compared to leaving it 2 days to build up full standing - and the later prisoners have great rewards, so you will be better off overall at the expense of having to wait a bit.
+
+# Donation
+
+Just in case you feel like making a tiny donation to help keep the motivation up, you can click here : <form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="YLJ9NX55E6Z7W" />
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+</form>
