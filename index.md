@@ -265,6 +265,14 @@ See [kingdom missions tip](#kingdom-missions-tip)
 
 #### Explore
 
+# Items
+
+## Tomes
+
+Increase relevant attributes.
+
+In the case of [Military Attribute](attributes-military) this mean the [Power](#power) is also increased
+
 # Characters
 
 ## Player
@@ -277,17 +285,33 @@ This is an important metric, as it determines whether you win end of kingdom cam
 
 ### Intimacy
 
+Unlocks "Naughty".
+
+Increases child potential and attributes.
+
+Also unlocks more [Bound hero](#bound-hero) gains.
+
 ### Charm
+
+Increasing this increases how much experience is gained for each visit
 
 ### Exprience
 
 ### Bound Hero
+
+### Titles
+
+
 
 ## Heros
 
 ### Level
 
 ### Attributes
+
+> Total attributes becomes Tourney health (?? verify this ??)
+
+> Total attributes across all characters contributes to Kingdom power (??how??)
 
 #### <a name="attributes-military"></a> Military
 
@@ -301,7 +325,7 @@ The sum of heros' power makes up the character [Total power](#total-power), whic
 
 According to the [Ksrgland fandom site](https://ksrgland.fandom.com/wiki/Heroes#Power) the formula for the hero's power is
 
-> Power = (5000 * [Level](#level) * [Military Quality](quality-military)) * [Military Attribute](attributes-military)
+> Power = (5000 * [Level](#level) * [Military quality](quality-military)) * [Military attribute](attributes-military)
 
 
 ### Bound Maiden
