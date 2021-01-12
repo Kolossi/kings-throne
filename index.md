@@ -34,7 +34,7 @@ To maximise income, keep on top of these. After some time, income is lost or fur
 - City scene → Harbor (or top left shortcut icon when active) → Enter battle.
   - Active 12:00-14:00 and 20:00-21:00 server time.
   - See [Boss challenge hero tip](#boss-challenge-hero-tip)
-- [Social](#social) → In-laws → each in-law → click right-arrow on right to increase likeability and gain kingdom power (max 100 times)
+- [Social](#social) → In-laws → each in-law → click right-arrow on right to increase likeability of in-law and gain xxx kingdom power (max 100 times)
 
 ## Regularly as possible
 
