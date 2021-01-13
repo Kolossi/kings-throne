@@ -267,6 +267,8 @@ See [kingdom missions tip](#kingdom-missions-tip)
 
 # Items
 
+## Quality scrolls
+
 ## Tomes
 
 Increase relevant attributes.
