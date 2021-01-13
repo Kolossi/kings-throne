@@ -325,8 +325,28 @@ The sum of heros' power makes up the character [Total power](#total-power), whic
 
 According to the [Ksrgland fandom site](https://ksrgland.fandom.com/wiki/Heroes#Power) the formula for the hero's power is
 
-> Power = (5000 * [Level](#level) * [Military quality](quality-military)) * [Military attribute](attributes-military)
+> Power = (5000 * [Level](#level) * [Military quality](quality-military)) +  [Military attribute](attributes-military)
 
+I was able to verify this, my "Good Sir James" had:
+* Power: 4.56M
+* Quality: 17
+* Level: 100
+  * `Devilish Ferocity lv:1  - Military:    +5/level = 5`
+  * `Strategic Planning lv:1 - Military:    +4/level = 4`
+  * `(Total Military quality= 9)`
+  * `Coffer Management lv:1  - Fortune:     +3/level = 3`
+  * `Barony Rulership lv:2   - Provisions:  +1/level = 2`
+  * `Officers Eloquence lv:1 - Inspiration: +3/level = 3`
+
+`Total Quality = 9 + 3 + 2 + 3 = 17` :heavy_check_mark:
+
+* Attr: 220K
+  * Military (gold): 60.3K
+  * Fortune: 54K
+  * Provisions: 52.2K
+  * Inspiration: 53.8K
+
+`Power = (5000 * 100 * 9) + 60300 = 4560300 = 4.56M` :heavy_check_mark:
 
 ### Bound Maiden
 
