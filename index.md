@@ -322,6 +322,7 @@ However they can still be assigned by clicking "Confirm" in response to this que
 | 9 |Int:38,Chm:68 Lvl:28,Atr:52.2k|Exp:651,100|   |   |   |   |   |   |   |   |
 |10 |Int:39,Chm:69 Lvl:59,Atr:56.8k|   |   |   |   |   |   |   |   |   |
 |11 |Exp:504,500|   |   |   |   |   |   |   |   |   |
+
 </div>
 
 ##### Accumulations
