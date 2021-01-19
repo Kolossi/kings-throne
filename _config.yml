@@ -3,3 +3,5 @@ title: Kings Throne
 description: Some info for playing this Android and iOS game
 show_downloads: false
 google_analytics: G-2H7YYL1YT3
+plugins:
+  - jemoji
