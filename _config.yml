@@ -5,3 +5,8 @@ show_downloads: false
 google_analytics: G-2H7YYL1YT3
 plugins:
   - jemoji
+exclude:
+- Gemfile
+- Gemfile.lock
+- .gitignore
+- .vscode
