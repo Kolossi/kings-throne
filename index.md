@@ -309,20 +309,29 @@ However they can still be assigned by clicking "Confirm" in response to this que
 
 <div markdown="1" style="overflow:scroll;overflow-y:hidden;overflow-x:scroll;">
 
-|Level|Gilderwood Forest|Gildershire Castle|Goldshore|Southern boundary|Argendale|Silvershore|South Dialann|North Dialann|Humbermoor Border|Humbermoor Highlands|
-|:-:|---|---|---|---|---|---|---|---|---|---|
-| 1 |   |   |   |   |Int:110,Chm:140 Lvl:200,Atr:137k|Int:130,Chm:160 Lvl:230,Qul:120|Int:150,Chm:180 Lvl:250,Atr:322k|Int:170,Chm:200 Lvl:300,Qul:160|Int:190,Chm:220 Lvl:350,Atr:573k|Int:210,Chm:240 Lvl:400,Qul:200|
-| 2 |   |   |   |Int:91,Chm:121 Lvl:151,Qul:92|Exp:115,500,Sld:55.1M  Int:111,Chm:141 Lvl:201,Attr:238k|Exp:140,000|Exp:164,800|Exp:190,100|Exp:215,900|Exp:242,000|
-| 3 |   |   |   |Int:92,Chm:122 Lvl:152,Qul:100|   |   |   |   |   |   |
-| 4 | | |Int:73,Chm:103 Lvl:103,Atr:148k|Exp:353,800|   |   |   |   |   |   |
-| 5 |   |   |Int:74,Chm:104 Lvl:104,Atr:177k   |   |   |   |   |   |   |   |
-| 6 |   |   |Exp:516,300|   |   |   |   |   |   |   |
-| 7 | |Int:56,Chm:86 Lvl:86,Qul:60|   |   |   |   |   |   |   |   |
-| 8 |   |Int:57,Chm:87 Lvl:87,Qul:61|   |   |   |   |   |   |   |   |
-| 9 |Int:38,Chm:68 Lvl:28,Atr:52.2k|Exp:651,100|   |   |   |   |   |   |   |   |
-|10 |Int:39,Chm:69 Lvl:59,Atr:56.8k|   |   |   |   |   |   |   |   |   |
-|11 |Exp:504,500|   |   |   |   |   |   |   |   |   |
+|Level:              |  1                     |  2                                 |  3                   |  4                               |  5                    |  6        |  7                |  8                |  9                   |  10                  |  11                              |  12       |
+|:------------------:|------------------------|------------------------------------|----------------------|----------------------------------|-----------------------|-----------|-------------------|-------------------|----------------------|----------------------|----------------------------------|-----------|
+|Gilderwood Forest   |                        |                                    |                      |                                  |                       |           |                   |                   |I:38,C:68 L:28,A:52.2k|I:39,C:69 L:59,A:56.8k|(E:504,500) I:40,C:70 L:60,A:61.3k|(E:633,800)|
+|Gildershire Castle  |                        |                                    |                      |                                  |                       |           |I:56,C:86 L:86,Q:60|I:57,C:87 L:87,Q:61|(E:651,100)           |                      |                                  |           |
+|Goldshore           |                        |                                    |                      |I:73,C:103 L:103,A:148k           |I:74,C:104 L:104,A:177k|(E:516,300)|                   |                   |                      |                      |                                  |           |
+|Southern boundary   |                        |I:91,C:121 L:151,Q:92               |I:92,C:122 L:152,Q:100|(E:353,800) I:93,C:123 L:153,Q:106|(E:516,100)            |           |                   |                   |                      |                      |                                  |           |
+|Argendale           |I:110,C:140 L:200,A:137k|(E:115,500) I:111,C:141 L:201,A:238k|                      |                                  |                       |           |                   |                   |                      |                      |                                  |           |
+|Silvershore         |I:130,C:160 L:230,Q:120 |(E:140,000)                         |                      |                                  |                       |           |                   |                   |                      |                      |                                  |           |
+|South Dialann       |I:150,C:180 L:250,A:322k|(E:164,800)                         |                      |                                  |                       |           |                   |                   |                      |                      |                                  |           |
+|North Dialann       |I:170,C:200 L:300,Q:160 |(E:190,100)                         |                      |                                  |                       |           |                   |                   |                      |                      |                                  |           |
+|Humbermoor Border   |I:190,C:220 L:350,A:573k|(E:215,900)                         |                      |                                  |                       |           |                   |                   |                      |                      |                                  |           |
+|Humbermoor Highlands|I:210,C:240 L:400,Q:200 |(E:242,000)                         |                      |                                  |                       |           |                   |                   |                      |                      |                                  |           |
 
+|Key|Value|
+|:-:|---|
+|I|Intimacy|
+|C|Charm|
+|L|Level|
+|Q|Quality|
+|A|Attributes|
+|E|Experience*|
+
+\* (to allow castle to get to this level)
 </div>
 
 ##### Accumulations
@@ -335,19 +344,27 @@ Similarly, for [Maiden](#maidens), the time to collect the reward is based on th
 
 <div markdown="1" style="overflow:scroll;overflow-y:hidden;overflow-x:scroll;">
 
-|Level|Gilderwood Forest|Gildershire Castle|Goldshore|Southern boundary|Argendale|Silvershore|South Dialann|North Dialann|Humbermoor Border|Humbermoor Highlands|
-|:-:|---|---|---|---|---|---|---|---|---|---|
-| 1 |   |   |   |   |Grn:???/m,Exp:300/m 3x100KGrn|Sld:???/m,Exp:360/m 3x100KSld|Gld:???/m,Exp:420/m 8x100KGld|Grn:???/m,Exp:480/m 8x100KGrn|Sld:???/m,Exp:540/m 1xMercContr|Gld:???/m,Exp:263/m 1xWarBond|
-| 2 |   |   |   |   |Grn:???/m,Exp:300/m 3x100KGrn|   |   |   |   |   |
-| 3 |   |   |   |Gld:???/m,Exp:240/m 3x100KGld|   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |Sld:???/m,Exp:180/m 1x100KSld|   |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |Grn:???/m,Exp:120/m 1x100KGrn|   |   |   |   |   |   |   |   |
-| 9 |   |   |   |   |   |   |   |   |   |   |
-|10 |Gld:???/m,Exp:120/m 1x100KGld|   |   |   |   |   |   |   |   |   |
-|11 |   |   |   |   |   |   |   |   |   |   |
+|Level:              |  1                     |  2                                 |  3                       |  4                               |  5                    |  6        |  7                |  8                   |  9                   |  10                  |  11                              |  12       |
+|:------------------:|------------------------|------------------------------------|--------------------------|----------------------------------|-----------------------|-----------|-------------------|----------------------|----------------------|----------------------|----------------------------------|-----------|
+|Gilderwood Forest   |                        |                                    |                          |                                  |                       |           |                   |                      |                      |G:??/m,E:120/m 1x100KG|G:1482/m,Exp:120/m 1x100KG/30m    |           |
+|Gildershire Castle  |                        |                                    |                          |                                  |                       |           |                   |P:??/m,E:120/m 1x100KP|                      |                      |                                  |           |
+|Goldshore           |                        |                                    |                          |                                  |S:??/m,E:180/m 1x100KS |           |                   |                      |                      |                      |                                  |           |
+|Southern boundary   |                        |                                    |G:2943/m,E:240/m 3x100KG/h|G:2517/m,E:240/m 3x100KG/h        |                       |           |                   |                      |                      |                      |                                  |           |
+|Argendale           |P:??/m,E:300/m 3x100KP  |P:??/m,E:300/m 3x100KP              |                          |                                  |                       |           |                   |                      |                      |                      |                                  |           |
+|Silvershore         |S:??/m,E:360/m 3x100KS  |                                    |                          |                                  |                       |           |                   |                      |                      |                      |                                  |           |
+|South Dialann       |G:??/m,E:420/m 8x100KG  |                                    |                          |                                  |                       |           |                   |                      |                      |                      |                                  |           |
+|North Dialann       |P:??/m,E:480/m 8x100KP  |                                    |                          |                                  |                       |           |                   |                      |                      |                      |                                  |           |
+|Humbermoor Border   |S:??/m,E:540/m 1xMC     |                                    |                          |                                  |                       |           |                   |                      |                      |                      |                                  |           |
+|Humbermoor Highlands|G:??/m,E:263/m 1xWB     |                                    |                          |                                  |                       |           |                   |                      |                      |                      |                                  |           |
+
+|Key|Value|
+|:-:|---|
+|G|Gold|
+|P|Provisions (Grain)|
+|S|Soldiers|
+|E|Experience|
+|MC|Mercenary Contract|
+|WB|War Bond|
 
 </div>
 
