@@ -492,7 +492,7 @@ I was able to verify this, my "Good Sir James" had:
 
 * [Official facebook group](https://www.facebook.com/gameKingsThrone/)
 * [Ksrgland Fandom site](https://ksrgland.fandom.com/wiki/Homepage)
-* [Some calculation spreadsheets c/o S546 Versfeld](https://docs.google.com/spreadsheets/d/1eqGj2_FFThZjPlplmndaYRqh6VtSBqF4Cb5BUZqTFqg/edit?usp=sharing)
+* [Some calculation spreadsheets c/o David Versfeld s546](https://docs.google.com/spreadsheets/d/1eqGj2_FFThZjPlplmndaYRqh6VtSBqF4Cb5BUZqTFqg/edit?usp=sharing)
 
 # Donation
 
